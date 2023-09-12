@@ -1,2 +1,2 @@
-# 10000-Tasks
+# 10000 Coders-Tasks
 Daily Tasks
